@@ -42,7 +42,10 @@ How to Run:
 7. Follow the instructions displayed in the terminal.
 
 Sample Output:
-1. 
+1. https://github.com/AmimaBatool/CodeAlpha_Bank-System/blob/main/SampleOutput_Bank-system-Calculator_Part-1.png
+2. https://github.com/AmimaBatool/CodeAlpha_Bank-System/blob/main/SampleOutput_Bank-system-Calculator_Part-2.png
+3. https://github.com/AmimaBatool/CodeAlpha_Bank-System/blob/main/SampleOutput_Bank-system-Calculator_Part-3.png
+4. https://github.com/AmimaBatool/CodeAlpha_Bank-System/blob/main/SampleOutput_Bank-system-Calculator_Part-4.png
 
 What I Learned:
 1. How to design a simple banking system using C++.
